@@ -2,8 +2,7 @@
 
 <h2>Summary</h2>
 
-This project is for an externship to create a customer service chatbot. It is trained on data from Stack Overflow, specifically questions about Python. It uses models from SentenceTransformer and Llama2, then leverages ConversationalRetrievalChain in order to generate Question/Answer responses. The UI was built using Chainlit and deployed initially on Google Colab. After that, I created a Docker image and then deployed on AWS.
-
+This project performs quantitative and qualitative analysis of housing data that is availability for New York State and New York City. The study was done at the beginning of 2024. Quantitative data was obtained from the federal government's Department of Housing and Urban Development (HUD), and qualitative data was obtained from peer-reviewed articles and current news events. The below PDF is a presentation I gave about the results I found and conclusions I drew from the data.
 
 <h2>Final Results</h2>
 
