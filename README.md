@@ -21,7 +21,8 @@ Plans for future directions to this study can be found in https://github.com/LDe
 
 <h2>Sample Graph</h2>
 
-![image](https://github.com/LDeYoung17/dataspeak-llm/assets/70500225/7dd6482c-4ad2-4c71-9876-df71c2234190)
+![image](https://github.com/user-attachments/assets/6b95ecd4-74b9-4f4d-ae39-bf285a221c47)
+
 
 
 <h2>Portfolio Link</h2>
@@ -30,4 +31,4 @@ https://ldeyoung17.github.io/
 
 https://sites.google.com/view/leahdeyoungparalegal/home
 
-The first link is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer. The second link is to my paralegal and legal studies portfolio, where you can see all of my legal writing projects.
+The first link is my portfolio where all my data projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer. The second link is to my paralegal and legal studies portfolio, where you can see all of my legal writing projects.
