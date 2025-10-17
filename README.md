@@ -2,7 +2,7 @@
 
 <h2>Summary</h2>
 
-This project performs quantitative and qualitative analysis of housing data that is availability for New York State and New York City. The study was done at the beginning of 2024. Quantitative data was obtained from the federal government's Department of Housing and Urban Development (HUD), and qualitative data was obtained from peer-reviewed articles and current news events. The below PDF is a presentation I gave about the results I found and conclusions I drew from the data.
+This project performs quantitative and qualitative analysis of housing data that is availability for New York State and New York City. The study was done at the beginning of 2024 and re-examined for presentation at the beginning of 2025. Quantitative data was obtained from the federal government's Department of Housing and Urban Development (HUD), and qualitative data was obtained from peer-reviewed articles and current news events. The below PDF is a presentation I gave about the results I found and conclusions I drew from the data.
 
 <h2>Final Results</h2>
 
